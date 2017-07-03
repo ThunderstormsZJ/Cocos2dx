@@ -1,0 +1,166 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: F:/Cocos/worksplace/HelloCocos/flyGame/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 2
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = F:\Cocos\worksplace\HelloCocos\flyGame\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 480.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 320.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 480.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 320.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+
+[LUA-print] [INFO] # display.width                = 480.00
+
+[LUA-print] [INFO] # display.height               = 320.00
+
+[LUA-print] [INFO] # display.cx                   = 240.00
+
+[LUA-print] [INFO] # display.cy                   = 160.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 480.00
+
+[LUA-print] [INFO] # display.top                  = 320.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -240.00
+
+[LUA-print] [INFO] # display.c_right              = 240.00
+
+[LUA-print] [INFO] # display.c_top                = 160.00
+
+[LUA-print] [INFO] # display.c_bottom             = -160.00
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] userdata: 0x095de860 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] OnEnter
+
+[LUA-print] [INFO] userdata: 0x095de860 [EventProtocol] dispatchEvent() - event PRESSED_EVENT
+
+[LUA-print] [INFO] userdata: 0x095de860 [EventProtocol] dispatchEvent() - event RELEASE_EVENT
+
+[LUA-print] [INFO] userdata: 0x095de860 [EventProtocol] dispatchEvent() - event CLICKED_EVENT
+
+[LUA-print] [INFO] userdata: 0x095de860 [EventProtocol] dispatchEvent() - dispatching event CLICKED_EVENT to listener 1
+
+[LUA-print] [INFO] Start Game
+
+Node warning: setPhysicsBody sets anchor point to Vec2::ANCHOR_MIDDLE.
+
+Node warning: setPhysicsBody sets anchor point to Vec2::ANCHOR_MIDDLE.
+
+[LUA-print] [INFO] OnExit
+
+[LUA-print] [INFO] userdata: 0x095de860 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] seperate
+
+[LUA-print] begin
+
+[LUA-print] begin
+
+[LUA-print] seperate
+
+[LUA-print] seperate
+
